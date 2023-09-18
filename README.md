@@ -2,8 +2,7 @@
 
 ## Overview
 
-This is a simple README file for the "Cipher Program" written in C. The program can perform encryption and decryption
-using block and stream ciphers.
+The program can perform encryption and decryption using block and stream ciphers.
 
 ## Usage
 
